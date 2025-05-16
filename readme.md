@@ -1,2 +1,2 @@
 # Demo
-Some simple descriptiojns about the new repository
+Some simple descriptions about the new repository
